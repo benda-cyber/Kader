@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "Fontisto",
+        "Formik",
+        "Ionicons",
+        "Kader",
+        "Lanciano",
+        "Octicons",
+        "bolila",
+        "doubleright",
+        "unfill",
+        "wght"
+    ],
+    "files.watcherExclude": {
+        "**/target": true
+    }
+}
